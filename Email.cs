@@ -2,5 +2,6 @@
 
 public class Email
 {
-    public const string introduction = "Dear Maurice.\n\tU 'highkey' needa teach me how to do that \"dolphin laugh\" \\\\";
+    public string introduction = @"Dear Maurice.
+	U 'highkey' needa teach me how to do that ""dolphin laugh"" \";
 }
